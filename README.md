@@ -5,7 +5,7 @@ A autenticação é baseada em [Auth0](https://auth0.com/) e apenas funcionário
 
 Esta aplicação está ***live*** em https://mena.nav.pt
 
-A listagem de versões e alterações ao **MENA** está disponível [aqui](MENA/CHANGELOG.md).
+A listagem de versões e alterações ao **MENA** está disponível [aqui](CHANGELOG.md).
 
 ## Documentação
 A documentação do **MENA** estará disponível brevemente [aqui](https://github.com/hugofpsilva/MENA/wiki).
