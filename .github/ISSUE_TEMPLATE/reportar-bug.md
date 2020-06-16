@@ -3,7 +3,6 @@ name: Reportar bug
 about: Ajude a melhorar o MENA
 labels: bug
 assignees: hugofpsilva
-projects: Bugs
 
 ---
 
