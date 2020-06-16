@@ -1,9 +1,9 @@
 ---
 name: Reportar bug
 about: Ajude a melhorar o MENA
-title: ''
 labels: bug
 assignees: hugofpsilva
+projects: Bugs
 
 ---
 
