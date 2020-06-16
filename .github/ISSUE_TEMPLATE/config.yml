@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Reportar bug
+    about: Ajude a melhorar o MENA
+    url: https://github.com/hugofpsilva/MENA/issues/new?assignees=hugofpsilva&labels=bug&projects=Bugs&template=reportar-bug.md
