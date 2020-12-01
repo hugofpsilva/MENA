@@ -1,3 +1,9 @@
+## -5.2.2
+##### *30 de novembro de 2020*
+
+- Introdução, em testes, de mensagens entre pessoal no mesmo turno
+- Correção de bugs diversos
+
 ## 5.1.1
 ##### *13 de novembro de 2020*
 
