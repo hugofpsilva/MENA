@@ -1,4 +1,9 @@
-## -5.2.2
+## 5.2.3
+##### *1 de dezembro de 2020*
+
+- Correção de um bug (feriados não estavam a aparecer)
+
+## 5.2.0, 5.2.1, 5.2.2
 ##### *30 de novembro de 2020*
 
 - Introdução, em testes, de mensagens entre pessoal no mesmo turno
