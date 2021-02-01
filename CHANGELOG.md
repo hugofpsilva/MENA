@@ -1,3 +1,14 @@
+## 5.2.5
+##### *22 de janeiro de 2021*
+
+- Mensagens já não estão em testes. É agora possível apagar as próprias mensagens
+- Preparação para utilização para registos de verificação do Crash Alarm
+
+## 5.2.4
+##### *31 de dezembro de 2020*
+
+- Acrescentada a visualização e notificações para alterações de escala
+
 ## 5.2.3
 ##### *1 de dezembro de 2020*
 
