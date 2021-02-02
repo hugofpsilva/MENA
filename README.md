@@ -1,5 +1,5 @@
 # MENA
-O **MENA** é uma [***progressive web app***](https://en.wikipedia.org/wiki/Progressive_web_application) que permite aos CTAs do CONTATL e TWRPON e aos TICAs do ICAATL consultarem as suas escalas e realizar outras consultas e pedidos associados ao serviço de Escalas. Permite também a algumas chefias consultarem as escalas dos respetivos funcionários.
+O **MENA** é uma [***progressive web app***](https://en.wikipedia.org/wiki/Progressive_web_application), desenvolvida em [**React**](https://reactjs.org/) e com infrastrutura em [**Firebase**](https://firebase.google.com/), que permite aos CTAs do CONTATL e TWRPON e aos TICAs do ICAATL consultarem as suas escalas e realizar outras consultas e pedidos associados ao serviço de Escalas.
 
 Aceder: https://mena.nav.pt
 
