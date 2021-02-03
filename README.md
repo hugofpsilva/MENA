@@ -12,7 +12,8 @@ A listagem de versões e alterações ao **MENA** está disponível [aqui](CHANG
 ## Suporte
 Os bugs do **MENA**, tanto o seu histórico como os atuais, estão disponíveis [aqui](https://github.com/hugofpsilva/MENA/projects/3).
 
-Os reportes de novos bugs devem ser encaminhados para mena@nav.pt.\
+Qualquer problema com a utilização do **MENA** ou bugs encontrados devem ser encaminhados para mena@nav.pt.
+
 Por favor verifique se o bug que encontrou não se encontra já para ser resolvido ([aqui](https://github.com/hugofpsilva/MENA/projects/3)).
 
 ## Alterações e novas funcionalidades
