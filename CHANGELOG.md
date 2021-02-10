@@ -1,3 +1,8 @@
+## 5.2.6
+##### *10 de fevereiro de 2021*
+
+- Acrescentadas notificações para as mensagens.
+
 ## 5.2.5
 ##### *22 de janeiro de 2021*
 
