@@ -1,3 +1,8 @@
+## 5.2.7
+##### *12 de fevereiro de 2021*
+
+- (+) Registos de verificação do Crash Alarm LPAZ
+
 ## 5.2.6
 ##### *10 de fevereiro de 2021*
 
