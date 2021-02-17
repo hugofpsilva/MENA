@@ -1,3 +1,8 @@
+## 5.2.8
+##### *17 de fevereiro de 2021*
+
+- Acrescentadas informações ao dia de quem está de extra ou troca
+
 ## 5.2.7
 ##### *12 de fevereiro de 2021*
 
@@ -6,7 +11,7 @@
 ## 5.2.6
 ##### *10 de fevereiro de 2021*
 
-- Acrescentadas notificações para as mensagens.
+- Acrescentadas notificações para as mensagens
 
 ## 5.2.5
 ##### *22 de janeiro de 2021*
