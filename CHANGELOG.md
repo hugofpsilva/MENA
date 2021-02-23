@@ -1,7 +1,8 @@
-## 5.2.9
+## 5.2.9, 5.2.10
 ##### *23 de fevereiro de 2021*
 
 - Página do dia, se aberta pela escala de alguém de serviço, abre no turno que essa pessoa está a fazer
+- Logotipo MENA na barra superior leva ao início
 
 ## 5.2.8
 ##### *17 de fevereiro de 2021*
