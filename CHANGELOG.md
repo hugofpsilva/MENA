@@ -1,3 +1,8 @@
+## 5.2.9
+##### *23 de fevereiro de 2021*
+
+- Página do dia, se aberta pela escala de alguém de serviço, abre no turno que essa pessoa está a fazer
+
 ## 5.2.8
 ##### *17 de fevereiro de 2021*
 
